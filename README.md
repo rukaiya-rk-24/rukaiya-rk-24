@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/rukaiya-rk-24/rukaiya-rk-24/blob/main/I%20fear%20not%20the%20AI%20that%20has%20trained%20in%2010%20billion%20simulations%20once%2C%20but%20the%20Ai%20that%20has%20trained%20in%20one%20simulation%2010%20billion%20times..png)
 <h1 align="center">Hi 👋, I'm  Rukaiya Bano</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
