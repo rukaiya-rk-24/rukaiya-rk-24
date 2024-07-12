@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm  Rukaiya </h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- 💫 About Me:
+ 💫 
 My name is Rukaiya.  I am a B.Tech graduate in Artificial Intelligence and Data Science, driven by a passion for leveraging technology to solve complex problems. With a background in computer science, mathematics and statistics, I have a strong foundation in developing innovative solutions that push the boundaries of what's possible. On my GitHub profile, you'll find a collection of my projects that showcase my skills in AI and data science, including machine learning models, data visualizations, and cutting-edge research. Whether it's exploring new algorithms or finding insights from data, I am constantly learning and pushing myself to create impactful solutions. Join me in my journey to shape the future of AI and data science.
 
 
